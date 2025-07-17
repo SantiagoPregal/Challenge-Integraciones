@@ -6,3 +6,4 @@
 # Filtro: soporte de GET /users/posts-summary?minPosts=5
 # Validación: excluir usuarios con emails vacíos
 # Separación mínima del código en módulos (no todo en 1 archivo)
+# Ruta para realizar request al endpoint solicitado http://localhost:3000/api/users/posts-summary
