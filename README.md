@@ -1,4 +1,5 @@
 # Challenge-Integraciones
+# Correr primero npm install para instalar dependencias
 # Para correr el servidor utilice npm run start o npm run dev
 # Si bien no encontre usuarios sin posts me parecio correcto incluirlos en el caso de que querramos detectar aquellos usuarios sin posts pueden llegar a servir como información según el objetivo del endpoint
 # Completado:
