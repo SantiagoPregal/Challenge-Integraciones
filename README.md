@@ -1,6 +1,6 @@
 # Challenge-Integraciones
 
-This repository contains a focused Node.js/Express API developed within a one-hour technical assessment for a backend integrations role at a startup. The goal was to demonstrate clean routing, external API consumption, and lightweight filtering logic that supports future integration scenarios.
+This repository contains a focused Node.js/Express API developed within a one-hour technical assessment without the use of ai for a backend integrations role at a startup. The goal was to demonstrate clean routing, external API consumption, and lightweight filtering logic that supports future integration scenarios.
 
 ## Stack
 - **Node.js** + **Express** for the HTTP server.
